@@ -46,7 +46,7 @@ I'm a **Software Engineer** and **Founding Engineer at Bolna (YC 25)**, building
 ### 💼 Experience
 
 #### 🚀 Founding Engineer
-**Bolna (YC 25)** | *2024 - Present*
+**Bolna (YC 25)** | *2025 - Present*
 - Built workflow automation systems
 - Developed TypeScript/React dashboards with real-time data visualization
 - Implemented AI-powered features reducing setup time by 80%
