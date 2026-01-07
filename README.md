@@ -104,7 +104,7 @@ Customizable RSS feed aggregator and reader.
   <a href="https://www.linkedin.com/in/pavankapoor31/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/imPavankapoor" target="_blank">
+  <a href="https://twitter.com/windcoding" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="mailto:pavankapoor31@gmail.com" target="_blank">
